@@ -20,4 +20,8 @@ package com.projetopoob2.modelo;
 public enum Tipo_Pessoa {
 	JOGADOR,
 	TREINADOR,
+	GOLEIRO,
+	ZAGUEIRO,
+	MEIO_CAMPISTA,
+	ATACANTE
 }
