@@ -9592,7 +9592,7 @@ button.bg-dark:focus {
 }
 
 .text-primary {
-  color: #4e73df !important;
+  color: #208B3A !important;
 }
 
 a.text-primary:hover, a.text-primary:focus {
@@ -11278,4 +11278,10 @@ footer.sticky-footer .copyright {
 
 body.sidebar-toggled footer.sticky-footer {
   width: 100%;
+}
+
+/* CSS customizado */
+
+.padded {
+  padding: 1%;
 }

@@ -21,7 +21,7 @@ public enum Tipo_Pessoa {
 	JOGADOR,
 	TREINADOR,
 	GOLEIRO,
-	ZAGUEIRO,
+	DEFENSOR,
 	MEIO_CAMPISTA,
 	ATACANTE
 }
