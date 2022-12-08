@@ -33,4 +33,4 @@ build/
 .vscode/
 
 ### ZIP Files ###
-.zip
+*.zip
